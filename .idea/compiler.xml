@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
+        <module name="springcloud-provider-hello" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="helloprovider" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
