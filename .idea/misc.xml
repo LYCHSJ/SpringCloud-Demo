@@ -5,6 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/RestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/RestTemplate/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/RestTemplate/consumer/pom.xml" />
       </list>
     </option>
   </component>

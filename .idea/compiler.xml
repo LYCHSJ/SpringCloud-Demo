@@ -6,8 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
+        <module name="consumer" />
         <module name="eureka-server" />
+        <module name="provider" />
+        <module name="ribbon-consumer" />
+        <module name="springcloud-provider-hello" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="helloprovider" target="1.8" />
+      <module name="rest-template" target="1.7" />
+      <module name="resttemplate-consumer" target="1.8" />
+      <module name="robbin-consumer" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
