@@ -16,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="helloprovider" target="1.8" />
+      <module name="hystrix" target="1.8" />
       <module name="rest-template" target="1.7" />
       <module name="resttemplate-consumer" target="1.8" />
       <module name="robbin-consumer" target="1.8" />

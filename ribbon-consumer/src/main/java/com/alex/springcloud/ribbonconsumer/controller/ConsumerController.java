@@ -1,5 +1,6 @@
 package com.alex.springcloud.ribbonconsumer.controller;
 
+import com.alex.springcloud.ribbonconsumer.service.HelloService;
 import com.netflix.discovery.converters.Auto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -11,10 +12,10 @@ import org.springframework.web.client.RestTemplate;
 public class ConsumerController {
 
     @Autowired
-    private RestTemplate restTemplate;
+    private HelloService helloService;
 
     @RequestMapping(value = "/ribbon-consumer", method = RequestMethod.GET)
     public String helloController(){
-        return restTemplate.getForEntity("http://HELLO-SERVICE/hello",String.class).getBody();
+        return helloService.hello();
     }
 }
