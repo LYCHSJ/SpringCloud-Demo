@@ -9,6 +9,7 @@
         <module name="commons" />
         <module name="consumer" />
         <module name="eureka-server" />
+        <module name="feign-consumer" />
         <module name="provider" />
         <module name="ribbon-consumer" />
         <module name="springcloud-provider-hello" />
