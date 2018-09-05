@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/RestTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/RestTemplate/provider/pom.xml" />
         <option value="$PROJECT_DIR$/RestTemplate/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-consumer/pom.xml" />
       </list>
     </option>
   </component>
