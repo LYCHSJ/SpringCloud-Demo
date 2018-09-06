@@ -6,11 +6,10 @@
     <file url="file://$PROJECT_DIR$/RestTemplate/consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RestTemplate/provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/exclude/feign-consumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/feign-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feign-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-api-gateway" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
