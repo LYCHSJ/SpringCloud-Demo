@@ -1,5 +1,5 @@
 # SpringCloud-Demo
-## Spring CLoud 各组件简单应用，包括：
+## Spring Cloud 各组件简单应用，包括：
 <ul>
 <li>Eureka Server注册中心</li>
 <li>Client Discovery服务发现</li>
