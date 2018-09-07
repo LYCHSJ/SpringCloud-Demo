@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/RestTemplate/consumer/pom.xml" />
         <option value="$PROJECT_DIR$/feign-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/zuul-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
       </list>
     </option>
   </component>

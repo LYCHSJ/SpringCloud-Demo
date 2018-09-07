@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="commons" />
+        <module name="config-server" />
         <module name="consumer" />
         <module name="eureka-server" />
         <module name="feign-consumer" />
