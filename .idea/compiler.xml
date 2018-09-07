@@ -13,6 +13,7 @@
         <module name="provider" />
         <module name="ribbon-consumer" />
         <module name="springcloud-provider-hello" />
+        <module name="zuul-api-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
