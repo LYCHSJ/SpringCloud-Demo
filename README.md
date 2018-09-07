@@ -1,7 +1,7 @@
 # SpringCloud-Demo
 ## Spring CLoud 各组件简单应用，包括：
 <ul>
-<li>Eureka Server</li>
+<li>Eureka Server注册中心</li>
 <li>Client Discovery服务发现</li>
 <li>Ribbon 路由</li>
 <li>Feign 路由</li>
